@@ -16,7 +16,7 @@ A Python-based CLI application designed to help **XYZ Company** manage project l
 1.  **Start the Application:**
     Run the script using Python.
     ```bash
-    python project_manager.py
+    python DOC333 Python Codes-rimaz.20231917.py
     ```
 
 2.  **Initial Setup:**
